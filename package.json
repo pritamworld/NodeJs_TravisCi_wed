@@ -1,7 +1,7 @@
 {
   "name": "node_eg",
   "version": "1.0.0",
-  "description": "Sampel app",
+  "description": "Sample app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
