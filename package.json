@@ -5,7 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"warning: no test specified\"",
-    "dev": "nodemon ./index.js localhost 8082"
+    "dev": "nodemon ./index.js localhost 8082",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+
   },
   "keywords": [
     "sample",
@@ -23,15 +29,31 @@
     "api"
   ],
   "author": {
-    "name": "Pritesh Patel",
-    "email": "sample@gb.ca"
+    "name": "Yazan Siyam",
+    "email": "Yazan.Siyam@Outlook.com"
   },
   "homepage": "https://nodejs.org/",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "eslintConfig": {
+  "extends": "react-app"
+},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
