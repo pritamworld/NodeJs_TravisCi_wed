@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b492f8a-2f60-493b-b6f3-aecf53c52af8" name="Default Changelist" comment="Added eslistConfig and browserslist in package.json file, executed npm start and run.">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dep-inclusions" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Jun Yan\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iZUH78r6awFTO6N2xjR9dSMTG4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jun Yan\devops\NodeJs_TravisCi_wed" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b492f8a-2f60-493b-b6f3-aecf53c52af8" name="Default Changelist" comment="" />
+      <created>1602114516665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602114516665</updated>
+      <workItem from="1602114518089" duration="404000" />
+      <workItem from="1602115300824" duration="275000" />
+      <workItem from="1602115607897" duration="1265000" />
+      <workItem from="1602118931745" duration="281000" />
+      <workItem from="1602715716798" duration="464000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added public and src folders to project">
+      <created>1602116332175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602116332175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added eslistConfig and browserslist in package.json file, executed npm start and run.">
+      <created>1602116841708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602116841708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added public and src folders to project" />
+    <MESSAGE value="Added eslistConfig and browserslist in package.json file, executed npm start and run." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added eslistConfig and browserslist in package.json file, executed npm start and run." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1875" height="224" key="GridCell.Tab.0.bottom" timestamp="1602115479158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602115479158" />
+    <state width="1875" height="224" key="GridCell.Tab.0.center" timestamp="1602115479158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="224" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602115479158" />
+    <state width="1875" height="224" key="GridCell.Tab.0.left" timestamp="1602115479158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="224" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602115479158" />
+    <state width="1875" height="224" key="GridCell.Tab.0.right" timestamp="1602115479158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="224" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602115479158" />
+    <state x="2472" y="273" key="Vcs.Push.Dialog.v2" timestamp="1602116848045">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="273" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602116848045" />
+  </component>
+</project>
