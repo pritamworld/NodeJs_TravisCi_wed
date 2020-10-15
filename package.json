@@ -4,8 +4,12 @@
   "description": "Sampel app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"warning:no test specified\"",
-    "dev": "nodemon ./index.js localhost 8082"
+    "start": "react-scripts start",
+     "build":"react-scripts build",
+     "predeploy":"yarn run build",
+     "deploy":"gh-pages -d build",
+     "test": "echo \"warning:no test specified\"",
+     "dev": "nodemon ./index.js localhost 8082"
   },
   "keywords": [
     "sample",
