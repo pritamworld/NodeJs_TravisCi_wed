@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57071c8-f350-4297-bcd2-9153b5ad133f" name="Default Changelist" comment="Merge branch 'master' into dep-inclusions&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;node_modules/accepts/package.json&#10;#&#9;node_modules/balanced-match/package.json&#10;#&#9;node_modules/camelcase/package.json&#10;#&#9;node_modules/chokidar/package.json&#10;#&#9;node_modules/color-name/package.json&#10;#&#9;node_modules/debug/package.json&#10;#&#9;node_modules/depd/package.json&#10;#&#9;node_modules/dot-prop/package.json&#10;#&#9;node_modules/emoji-regex/package.json&#10;#&#9;node_modules/end-of-stream/package.json&#10;#&#9;node_modules/escape-html/package.json&#10;#&#9;node_modules/express/package.json&#10;#&#9;node_modules/get-stream/package.json&#10;#&#9;node_modules/graceful-fs/package.json&#10;#&#9;node_modules/has-flag/package.json&#10;#&#9;node_modules/iconv-lite/package.json&#10;#&#9;node_modules/imurmurhash/package.json&#10;#&#9;node_modules/inherits/package.json&#10;#&#9;node_modules/ini/package.json&#10;#&#9;node_modules/ipaddr.js/package.json&#10;#&#9;node_modules/is-extglob/package.json&#10;#&#9;node_modules/is-fullwidth-code-point/package.json&#10;#&#9;node_modules/is-glob/package.json&#10;#&#9;node_modules/is-typedarray/package.json&#10;#&#9;node_modules/mime-db/package.json&#10;#&#9;node_modules/mime-types/package.json&#10;#&#9;node_modules/minimatch/package.json&#10;#&#9;node_modules/minimist/package.json&#10;#&#9;node_modules/ms/package.json&#10;#&#9;node_modules/nodemon/package.json&#10;#&#9;node_modules/normalize-path/package.json&#10;#&#9;node_modules/once/package.json&#10;#&#9;node_modules/parseurl/package.json&#10;#&#9;node_modules/pump/package.json&#10;#&#9;node_modules/range-parser/package.json&#10;#&#9;node_modules/safe-buffer/package.json&#10;#&#9;node_modules/safer-buffer/package.json&#10;#&#9;node_modules/semver/package.json&#10;#&#9;node_modules/signal-exit/package.json&#10;#&#9;node_modules/statuses/package.json&#10;#&#9;node_modules/strip-ansi/package.json&#10;#&#9;node_modules/strip-json-comments/package.json&#10;#&#9;node_modules/supports-color/package.json&#10;#&#9;node_modules/vary/package.json&#10;#&#9;node_modules/wrappy/package.json">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,15 +64,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +90,7 @@
       <workItem from="1602118931745" duration="281000" />
       <workItem from="1602715716798" duration="464000" />
       <workItem from="1602717108702" duration="135000" />
+      <workItem from="1602721181418" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="Added public and src folders to project">
       <created>1602116332175</created>
