@@ -1,11 +1,15 @@
 {
   "name": "node_eg",
   "version": "1.0.0",
-  "description": "Sampel app",
+  "description": "Sample app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./index.js localhost 8082"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Warning: No tests created yet.\"",
+    "eject": "react-scripts eject"
   },
   "keywords": [
     "sample",
@@ -23,15 +27,27 @@
     "api"
   ],
   "author": {
-    "name": "Pritesh Patel",
-    "email": "sample@gb.ca"
+    "name": "Jun Yan Gan",
+    "email": "Jun-Yan.Gan@georgebrown.ca"
   },
   "homepage": "https://nodejs.org/",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "nodemon": "^2.0.4",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.22.10"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
